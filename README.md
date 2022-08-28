@@ -22,6 +22,6 @@ Simulators within each folder: social_influence, social_selection and combined_p
 
 Within each folder there is a jupyter notebook file (.ipynb) that process simulator results and generates the corresponding figures.
 
-## Sample Output Graph
+## Sample Output
 
 ![alt tag](https://github.com/luzuzek/spatialclustering_homophily_influence/blob/03fd1b9fe82d6982bb66e68d71e153b943b4b466/data/Fig4%202.png)
